@@ -25,46 +25,5 @@ namespace ConsoleApp1
                 Visina = visina;
                 Tezina = tezina;
             }
-
-            public string GetIme()
-            {
-                return Ime;
-            }
-
-            public void SetIme(string ime)
-            {
-                Ime = ime;
-            }
-
-            public string GetPrezime()
-            {
-                return Prezime;
-            }
-
-            public void SetPrezime(string prezime)
-            {
-                Prezime = prezime;
-            }
-
-            public float GetVisina()
-            {
-                return Visina;
-            }
-
-            public void SetVisina(float visina)
-            {
-                Visina = visina;
-            }
-
-            public float GetTezina()
-            {
-                return Tezina;
-            }
-
-            public void SetTezina(float tezina)
-            {
-                Tezina = tezina;
-            }
-
         }
     }
